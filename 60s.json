@@ -1,0 +1,10 @@
+{
+    "api_token": "**********",
+    "url": "http://**********",
+    "user": {
+        "username": "**********",
+        "password": "**********"
+    },
+    "news_tag": "***",
+    "all_image": false
+}
