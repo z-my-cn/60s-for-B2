@@ -45,16 +45,17 @@ cd 60s.py所在目录
 python3 60s.py
 ```
 
-可执行文件下载[release](https://github.com/z-my-cn/60s-for-B2/releases)
-
 ### Linux 运行
 
+>可执行文件下载[release](https://github.com/z-my-cn/60s-for-B2/releases)
 
 ```shell
-cd 60s所在目录
+cd 可执行文件60s所在目录
 ./60s
 ```
 ### Windows运行
+
+>可执行文件下载[release](https://github.com/z-my-cn/60s-for-B2/releases)
 
 直接双击60s.exe运行即可
 
