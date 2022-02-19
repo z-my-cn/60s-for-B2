@@ -30,9 +30,9 @@ username：用户名；password：密码
 
 是否采用全图模式。
 
->全图模式：整个页面排版全部为图片，样式美化，但内容文字不可复制。[参考](https://www.z-my.cn/newsflashes/2661.html)
+>全图模式：整个页面排版全部为图片，样式美化，但内容文字不可复制。
 
->非全图模式：除头图外，其余内容均为文本形式，样式单一。[参考](https://www.z-my.cn/newsflashes/2703.html)
+>非全图模式：除头图外，其余内容均为文本形式，样式单一。
 
 ## 运行
 
@@ -45,9 +45,12 @@ cd 60s.py所在目录
 python3 60s.py
 ```
 
+可执行文件下载[release](https://github.com/z-my-cn/60s-for-B2/releases)
+
 ### Linux 运行
 
-```
+
+```shell
 cd 60s所在目录
 ./60s
 ```
